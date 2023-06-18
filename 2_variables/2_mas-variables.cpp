@@ -45,6 +45,7 @@ int main() {
 
     // Podemos concatenar e imprimir por consola:
     std::cout << "Hola " << nombre << '\n';
+    std::cout << "Tenés " << edad << " años" << '\n';
 
     return 0;
 }
